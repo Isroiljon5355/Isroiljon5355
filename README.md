@@ -12,9 +12,5 @@ I'm working with webbot and there are a lot of projects
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isroiljon5355&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isroiljon5355&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Isroiljon5355&icon=4&color=11)](https://visitcount.itsvg.in)
-(https://buymeacoffee.com/Isroiljon  Musajonov) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
